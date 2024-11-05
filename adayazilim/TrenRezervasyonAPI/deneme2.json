@@ -1,0 +1,27 @@
+[
+    {
+        "Tren": {
+            "Ad": "Başkent Ekspres",
+            "Vagonlar": [
+                {"Ad": "Vagon 1", "Kapasite": 150, "DoluKoltukAdet": 100},
+                {"Ad": "Vagon 2", "Kapasite": 120, "DoluKoltukAdet": 60},
+                {"Ad": "Vagon 3", "Kapasite": 90, "DoluKoltukAdet": 63}
+            ]
+        },
+        "RezervasyonYapilacakKisiSayisi": 8,
+        "KisilerFarkliVagonlaraYerlestirilebilir": true
+    }
+    
+    ,
+    
+    
+    {
+        "RezervasyonYapilabilir": true,
+        "YerlesimAyrinti": [
+            {"VagonAdi": "Vagon 1", "KisiSayisi": 5},
+            {"VagonAdi": "Vagon 2", "KisiSayisi": 3}
+        ]
+    }
+
+    
+]
