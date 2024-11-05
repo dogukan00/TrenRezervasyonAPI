@@ -1,2 +1,2 @@
-cd TrenRezervasyonAPI
+cd TrenRezervasyonAPI  
 dotnet watch run
